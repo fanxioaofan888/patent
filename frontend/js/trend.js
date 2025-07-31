@@ -8,7 +8,7 @@ function initTrendChart() {
     data: {
       labels: [],
       datasets: [{
-        label: 'Historical Load',
+        label: '历史负荷',
         data: [],
         borderColor: '#ff6384',
         fill: false

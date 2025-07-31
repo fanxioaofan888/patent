@@ -1,6 +1,6 @@
 # patent
 
-This repository provides sample frontend pages demonstrating a patent for edge-computing based power load monitoring. The `frontend` folder contains a simple Bootstrap-based web UI.
+This repository provides sample frontend pages demonstrating a patent for edge-computing based power load monitoring. The `frontend` folder contains a Bootstrap-based web UI with Chinese localization.
 
 ## Running
-Open any of the HTML pages inside `frontend/` in your browser (e.g., `frontend/index.html`). The sign-in page will redirect you to the Real-Time Monitor upon login.
+Open the `frontend/index.html` page in your browser to start. Fonts are loaded from Google Fonts (Noto Sans SC) to ensure proper Chinese display. After login you will be redirected to the monitor page.

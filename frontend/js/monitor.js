@@ -7,7 +7,7 @@ function initChart() {
     data: {
       labels: [],
       datasets: [{
-        label: 'Power (kW)',
+        label: '功率(kW)',
         data: [],
         borderColor: 'rgba(75,192,192,1)',
         fill: false
