@@ -1,0 +1,10 @@
+body {
+  padding-top: 70px;
+}
+.navbar-brand {
+  font-weight: bold;
+}
+.table-wrap {
+  max-height: 400px;
+  overflow-y: auto;
+}
