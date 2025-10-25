@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+SC&display=swap');
+body {
+  padding-top: 70px;
+  font-family: 'Noto Sans SC', 'Microsoft YaHei', sans-serif;
+}
+.navbar-brand {
+  font-weight: bold;
+}
+.table-wrap {
+  max-height: 400px;
+  overflow-y: auto;
+}
